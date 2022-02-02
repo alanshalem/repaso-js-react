@@ -1,6 +1,6 @@
 // Destructuring de arrays
-const tecnologias = ['HTML', 'CSS', 'JavaScript', 'React', 'Node.js']
+const tecnologias = ['HTML', 'CSS', 'JavaScript', 'React', 'Node.js'];
 
-const [ , , , , var5] = tecnologias
+const [, , , , var5] = tecnologias;
 
-console.log(var5)
+console.log(var5); // Node.js
